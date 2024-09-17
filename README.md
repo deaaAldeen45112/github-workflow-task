@@ -20,7 +20,6 @@ The project is a simple example created to illustrate the Gitflow workflow. It i
 
 ## Gitflow Workflow Simulation
 This repository is a simulation of the Gitflow branching model.
-
 [Simulation Repository](https://github.com/deya-123/gitflow-task)
 
 ## Documentation
