@@ -18,6 +18,9 @@ The project is a simple example created to illustrate the Gitflow workflow. It i
 - **Release Branches (`release/branch-name`)**: Created from the `develop` branch to prepare for a new release. Includes final fixes and adjustments before merging into `main` and `develop`.
 - **Hotfix Branches (`hotfix/branch-name`)**: Created from the `main` branch to address critical issues in the production code. Merged back into both `main` and `develop` after the fix is applied.
 
+## Gitflow Workflow Simulation
+This repository is a simulation of the Gitflow branching model.
+[Simulation Repository](https://github.com/deya-123/gitflow-task)
 ## Documentation
 A full project report is available in `gitflow_report.pdf`. 
 
