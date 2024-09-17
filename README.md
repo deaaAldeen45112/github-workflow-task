@@ -17,3 +17,10 @@ The project is a simple example created to illustrate the Gitflow workflow. It i
 - **Feature Branches (`feature/branch-name`)**: Created from the `develop` branch to work on new features. Merged back into `develop` once the feature is complete.
 - **Release Branches (`release/branch-name`)**: Created from the `develop` branch to prepare for a new release. Includes final fixes and adjustments before merging into `main` and `develop`.
 - **Hotfix Branches (`hotfix/branch-name`)**: Created from the `main` branch to address critical issues in the production code. Merged back into both `main` and `develop` after the fix is applied.
+
+## Documentation
+A full project report is available in `docker_report.pdf`. 
+
+## Video Presentation
+A video presentation demonstration of the project setup is available on YouTube:  
+[Watch the Video Presentation](https://www.youtube.com/watch?v=7uDP1g6dvRk&t=1s)
