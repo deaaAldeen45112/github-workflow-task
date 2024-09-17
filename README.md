@@ -19,7 +19,7 @@ The project is a simple example created to illustrate the Gitflow workflow. It i
 - **Hotfix Branches (`hotfix/branch-name`)**: Created from the `main` branch to address critical issues in the production code. Merged back into both `main` and `develop` after the fix is applied.
 
 ## Documentation
-A full project report is available in `docker_report.pdf`. 
+A full project report is available in `gitflow_report.pdf`. 
 
 ## Video Presentation
 A video presentation demonstration of the project setup is available on YouTube:  
